@@ -1,7 +1,5 @@
-# 2023-03-30-dc-geospatial
+# Introduction to Geospatial Raster and Vector Data with Python
 
-Material of the workshop:
+Faculty of Geo-Information Science and Earth Observation (ITC) - March 30 - 31, 2023
 
-[workshop material, official version](): This is the official material of the workshop. It does not include the newest changes, therefore a bit different from what we have taught furing the workshop.
-
-[workshop material, in development](https://esciencecenter-digital-skills.github.io/geospatial-python/): This is the material we used to teach the workshop. We will imporve it based on your feedbacks, and evetually update the official material. 
+The workshop has been based on this [lesson material](https://carpentries-incubator.github.io/geospatial-python/).
